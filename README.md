@@ -30,7 +30,7 @@ http://www.isuperaps.com/isuperaps6free.zip
 Production scheduling software operation video download:
 
 1.Run an existing schedule project(size 1.6 MB )
-http://www.isuperaps.com/avi/Run a exist project.avi
+<a> http://www.isuperaps.com/avi/Run a exist project.avi </a>
 
 2.Create a new simple schedule project(size 7.8 MB )
 http://www.isuperaps.com/avi/Create a new project.avi
