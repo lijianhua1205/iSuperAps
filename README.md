@@ -5,6 +5,7 @@ Free APS(Advanced Planning and Scheduling) System Using Parallel Genetic Algorit
 Software Introduction
 
 ISuperAps Advanced Planning and Scheduling software is an APS software for discrete manufacturing enterprises that supports multi-core and multi-server parallel computing. It supports SQL SERVER and ERP data import, and the server side adopts the world's leading parallel genetic algorithm similar to SAP Apo for production scheduling and optimization. It is designed with a large-scale distributed structure and can use multiple machines Dozens or even thousands of servers simultaneously participate in optimization calculations, greatly improving the speed of finding the global optimal solution. It supports multiple users to schedule simultaneously and also supports single users to use multiple servers for distributed parallel scheduling
+
 Software Function Introduction:
 
 1. Consider secondary resource constraints
@@ -23,5 +24,6 @@ Software Download
 
 Click here to download iSuperAps production scheduling software (client and server) v6.0 free version (size 29.8MB)
 http://www.isuperaps.com/isuperaps6free.zip
+
 (running environment client winxp/win7/win11 server winxp/windows server recommended to use the virtual machine winxp environment)
 
