@@ -27,3 +27,29 @@ http://www.isuperaps.com/isuperaps6free.zip
 
 (running environment client winxp/win7/win11 server winxp/windows server recommended to use the virtual machine winxp environment)
 
+Production scheduling software operation video download:
+
+1.Run an existing schedule project(size 1.6 MB )
+http://www.isuperaps.com/avi/Run a exist project.avi
+2.Create a new simple schedule project(size 7.8 MB )
+http://www.isuperaps.com/avi/Create a new project.avi
+3.Fixed existing job insert new order rearrangement(size 3.2 MB )
+http://www.isuperaps.com/avi/Insert new order reSchedule.avi
+4.Gantt chart manual modification(size 1.2 MB )
+http://www.isuperaps.com/avi/Gantt graph modify manually.avi
+5.Large amount of data scheduling(size 3.7 MB )
+http://www.isuperaps.com/avi/Large dataset scheduling.avi
+6.Apply sub-resource constraints(size 2.5 MB )
+http://www.isuperaps.com/avi/Apply sub_resource restriction.avi
+7.Parallel scheduling under multi-server multi-core(size 11.8 MB )
+http://www.isuperaps.com/avi/Multiple server parallel processing.avi
+8.Import data from external excel file(size 13.6 MB )
+http://www.isuperaps.com/avi/Import data from excel table.avi
+
+Website
+http://www.isuperaps.com/en/
+
+Contact Us:　
+wechat  lijianhua1205
+
+
