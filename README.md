@@ -26,6 +26,7 @@ Click here to download iSuperAps production scheduling software (client and serv
 http://www.isuperaps.com/isuperaps6free.zip
 
 (running environment: client winxp/win7/win11 server winxp/windows 
+
  server recommended to use the virtual machine winxp environment)
 
 Production scheduling software operation video:
