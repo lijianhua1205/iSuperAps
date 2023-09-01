@@ -51,10 +51,5 @@ Website
 
 http://www.isuperaps.com/en/
 
-Contact Us:　
-
-wechat  lijianhua1205
-
-email   1103256696@qq.com
 
 
