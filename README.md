@@ -27,11 +27,11 @@ http://www.isuperaps.com/isuperaps620free.zip
 
 (running environment: win7/win10/win11)
 
-![Image](images1.jpg)
-![Image](images2.jpg)
-![Image](images3.jpg)
-![Image](images4.jpg)
-![Image](images5.jpg)
+![Image](image1.jpg)
+![Image](image2.jpg)
+![Image](image3.jpg)
+![Image](image4.jpg)
+![Image](image5.jpg)
 
 Production scheduling software operation video:
 
