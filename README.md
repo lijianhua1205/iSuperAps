@@ -27,6 +27,12 @@ http://www.isuperaps.com/isuperaps620free.zip
 
 (running environment: win7/win10/win11)
 
+!(images1.jpg)
+!(images2.jpg)
+!(images3.jpg)
+!(images4.jpg)
+!(images5.jpg)
+
 Production scheduling software operation video:
 
 1.Run an existing schedule project
