@@ -22,8 +22,8 @@ Software Function Introduction:
 
 Software Download
 
-Click here to download iSuperAps production scheduling software (client and server) v620 free version (size 32MB)
-http://www.isuperaps.com/isuperaps620free.zip
+Click here to download iSuperAps production scheduling/supply chain plan software (client and server) v620 free version (size 49MB)
+http://www.isuperaps.com/isuperaps-scp620free.zip
 
 (running environment: win7/win10/win11)
 
