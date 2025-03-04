@@ -27,6 +27,16 @@ http://www.isuperaps.com/isuperaps-scp620free.zip
 
 (running environment: win7/win10/win11)
 
+Click here to download production scheduling simulation/factory manufacturing simulation software open source free version (size 28MB )
+http://www.isuperaps.com/dream.zip
+
+Click here to download supply chain network planning and design software open source free version(size 12MB )
+http://www.isuperaps.com/asdn.zip
+
+Click here to download Constraint Optimization Solver software open source free version(size 12MB )
+http://www.isuperaps.com/solver.zip
+
+
 ![Image](image1.jpg)
 ![Image](image2.jpg)
 ![Image](image3.jpg)
