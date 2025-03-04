@@ -27,6 +27,13 @@ http://www.isuperaps.com/isuperaps-scp620free.zip
 
 (running environment: win7/win10/win11)
 
+Click here to download demand forecast software free version(size 49MB )
+http://www.isuperaps.com/isuperaps-scp620free.zip
+
+Click here to download vehicle routing planning  free version(size 49MB )
+http://www.isuperaps.com/isuperaps-scp620free.zip
+
+
 Click here to download production scheduling simulation/factory manufacturing simulation software open source free version (size 28MB )
 http://www.isuperaps.com/sim.zip
 
