@@ -30,7 +30,7 @@ http://www.isuperaps.com/isuperaps-scp620free.zip
 Click here to download demand forecast software free version(size 49MB )
 http://www.isuperaps.com/isuperaps-scp620free.zip
 
-Click here to download vehicle routing planning  free version(size 49MB )
+Click here to download vehicle routing planning software free version(size 49MB )
 http://www.isuperaps.com/isuperaps-scp620free.zip
 
 
