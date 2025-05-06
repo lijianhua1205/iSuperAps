@@ -20,10 +20,9 @@ Software Function Introduction:
 10. Convenient work calendar definition
 11. Provided external data import interface
 
-Software Download
+Software 
 
-iSuperAps production scheduling software (client and server) v620 free version (size 32MB)
-
+iSuperAps production scheduling/supply chain plan software (client and server) v621 free version (Size 32MB )
 
 (running environment: win7/win10/win11)
 
