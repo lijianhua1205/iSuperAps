@@ -22,7 +22,7 @@ Software Function Introduction:
 
 Software 
 
-iSuperAps production scheduling/supply chain plan software (client and server) v621 free version (Size 32MB )
+iSuperAps production scheduling/job shop scheduling software (client and server) v621 free version (Size 32MB )
 
 (running environment: win7/win10/win11)
 
